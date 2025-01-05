@@ -1,4 +1,4 @@
-# GHOST-V3-MD BOT #
+# SHENU-MD BOT #
 <br>
  </p>
     <p align="center">
@@ -14,8 +14,8 @@
 <hr>
 
 <p align="center">
-  <a href="https://youtu.be/WcA7GZuaN0A">
-    <img alt="GHOST-MD" height="300" src="https://i.ibb.co/CV1hdLc/4801cfe28ce1e9e7.jpg">
+  <a href="https://youtube.com/@cyberghost630?si=JVTDEQ8vO9Ksgv9M">
+    <img alt="SHENU-MD" height="300" src="https://i.ibb.co/CV1hdLc/4801cfe28ce1e9e7.jpg">
 
     
 
@@ -40,5 +40,5 @@
 <a href="https://web-pair-adt3.onrender.com"><img src="https://pair-web-public.koyeb.app/" alt="LOGIN WITH PAIR CODE" width="250"></a>
 
 ## Deploy.
- [![nima](https://img.shields.io/badge/ghostmd_deploy_on_heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&buttcode=1n2i3m4a)](https://dashboard.heroku.com/new?template=https://github.com/GHOST-V1-MD/GHOST-MD)
+ [![nima](https://img.shields.io/badge/shenumd_deploy_on_heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&buttcode=1n2i3m4a)](https://dashboard.heroku.com/new?template=https://github.com/GHOST-V1-MD/GHOST-MD)
 
